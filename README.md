@@ -45,4 +45,5 @@ fjstj
 usne
 (rani) 
 bump
-(funk) 
+(fu
+ suffer
