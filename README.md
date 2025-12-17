@@ -45,3 +45,4 @@ fjstj
 usne
 (rani) 
 bump
+(funk) 
