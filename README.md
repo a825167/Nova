@@ -86,3 +86,4 @@ aarop
 archives
 secular
 penalty
+poor
