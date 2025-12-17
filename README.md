@@ -56,3 +56,4 @@ junk
 teen
 funky
 sync
+cubs
