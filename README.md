@@ -95,3 +95,4 @@ archipelago
 gunaah
 seekhe
 ek gl
+shop
