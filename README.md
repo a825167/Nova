@@ -96,3 +96,4 @@ gunaah
 seekhe
 ek gl
 shop
+provoking
