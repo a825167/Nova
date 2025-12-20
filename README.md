@@ -130,3 +130,4 @@ funky
 cdisco
 hybrid
  Funko
+ego
